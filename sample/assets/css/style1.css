@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+ 
+}
+
+body,
+p {
+    font-family: 'Josefin Sans', sans-serif !important;
+    font-size: 17px;
+
+}
+
+.container {
+    width:100%;
+    height: auto;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+i{
+    font-size:35px;
+    color:#aaa;
+}
+.icon{
+    text-align: right;
+    padding-top:23px;
+}
+.icon1{
+    text-align: right;
+    padding-top:30px; 
+}
+.icon1 i{
+    font-size:45px;
+    color:purple;
+}
+span{
+    color:blue;
+}
+.evaldak{
+    padding-top:15px;
+    font-size:35px;
+    color:darkblue;
+}
+.section1 {
+    height:100%;
+    box-shadow: 1px 1px 4px 4px gray;
+}
+li {
+    text-decoration: none !important;
+    list-style: none !important;
+    display: inline-block;
+    padding:16px 20px;
+}
+
+ul li a {
+    text-decoration: none !important;
+    font-size: 20px !important;
+   /*padding:0px 19px;*/
+    color:black;
+}
+ul li a:hover {
+color:peru;
+    border-bottom:2px solid peru !important;
+     transition: ease all 0.0s !important;
+}
+.nav button {
+    font-size: 17px;
+    width: 170px;
+    height: 50px;
+    background-color:peru;
+    color: #fff;
+    border-radius: 30px;
+    border: 2px solid peru;
+    margin-top:15px;
+    margin-bottom: 10px;
+   text-align: center;
+}
+.nav{
+    justify-content: center;
+}
+.nav button:hover {
+    background-color: #fff;
+    color:peru;
+}
+
+
+.para {
+    line-height: 20px;
+}
+
+.thou {
+    color: white;
+}
+
+.fresh {
+    color: white;
+}
+
+.para {
+    color: white;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+
+.read {
+    border-radius: 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
